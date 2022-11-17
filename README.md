@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beichen Zhang @bzhang9683
-- 👀 I’m interested in applying geospatial techniques (RS, GIS, etc.) and data science (ML, DL, etc.) to study climate impacts, especially from increasing natural disasters.
-- 🌱 I’m currently learning ML, DL, causal inference, and statistical modeling.
+- 👀 I’m interested in applying geospatial techniques (RS, GIS, etc.) and data science (ML, DL, etc.) to study the impacts of climate extremes, such as the impacts of increasing natural disasters.
+- 🌱 I’m currently learning applied climatology, ML, DL, causal inference, and statistical modeling.
 - 💞️ I’m looking to collaborate on interdisciplinary research of AI, climate extremes, climate change, and remote sensing.
 - 📫 How to reach me: beichen@huksers.unl.edu
 
